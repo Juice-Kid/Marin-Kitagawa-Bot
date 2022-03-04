@@ -80,7 +80,7 @@ export default class Command extends BaseCommand {
 					})();
 					return {
 						categories,
-						pack: pack[1] || "💖 Here you go ",
+						pack: pack[1] || "💖 Chey ",
 						author: pack[2] || "Marin-Bot 🖤",
 						quality,
 						type: StickerTypes[
