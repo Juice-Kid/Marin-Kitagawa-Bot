@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `Thx for using the cmd check your xp don't forget to follow me:🔻 . \n`,
+				caption: `Thx for using the cmd check your xp & don't forget to follow me:🔻.
 
 ⭕𝙂𝙞𝙩𝙝𝙪𝙗;
 https://github.com/Chey-san
