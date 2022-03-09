@@ -11,7 +11,7 @@ export default class Command extends BaseCommand {
 		super(client, handler, {
 			command: "chey",
 			description: "Boost your xp",
-			category: "general",
+			category: "moderation",
 			usage: `${client.config.prefix}chey`,
 			baseXp: 1000,
 		});
