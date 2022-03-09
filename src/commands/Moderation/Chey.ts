@@ -29,8 +29,6 @@ export default class Command extends BaseCommand {
 				mimetype: Mimetype.gif,
 				caption: `Thx for using the cmd check your xp don't forget to follow me:🔻 . \n`,
 
-
-
 ⭕𝙂𝙞𝙩𝙝𝙪𝙗;
 https://github.com/Chey-san
 📮𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢;
