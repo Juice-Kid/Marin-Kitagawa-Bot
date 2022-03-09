@@ -32,7 +32,7 @@ export default class Command extends BaseCommand {
 ⭕𝙂𝙞𝙩𝙝𝙪𝙗;
 https://github.com/Chey-san
 📮𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢;
-https://instagram.com/its_chey_7			
+https://www.instagram.com/its_chey_7/			
 
 
 ⪼𝖲𝖾𝖾 𝗒𝖺𝗁 😉✨` }
